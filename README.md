@@ -1,2 +1,1 @@
-# Raycaster
-Raycaster that takes an input .txt file and outputs a .ppm file
+# umn-csci-5607-s22
